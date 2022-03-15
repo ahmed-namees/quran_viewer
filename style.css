@@ -15,7 +15,7 @@ body {
     align-items: center;
     flex-direction: row;
     background-color: rgb(94, 94, 94);
-    min-width: 150px !important;
+
 }
 
 .container {
@@ -24,6 +24,7 @@ body {
     background-color: #F3FBEE;
     padding: 10px;
     overflow: auto;
+    width: 470px !important;
 }
 
 .rows{
@@ -62,6 +63,7 @@ body {
     border-radius: 4px;
     border: 1px #1b7947 solid;
     cursor: pointer;
+    font-size: 18px;
 }
 
 .hide{
